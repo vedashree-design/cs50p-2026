@@ -1,0 +1,1 @@
+print("Day 2: Woke up at 10, KAIST mode on")
